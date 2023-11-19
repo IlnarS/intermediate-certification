@@ -1,0 +1,14 @@
+/home/work/Desktop/LessonsC#/ЗадачаАттестат_3/bin/Debug/net8.0/ЗадачаАттестат_3
+/home/work/Desktop/LessonsC#/ЗадачаАттестат_3/bin/Debug/net8.0/ЗадачаАттестат_3.deps.json
+/home/work/Desktop/LessonsC#/ЗадачаАттестат_3/bin/Debug/net8.0/ЗадачаАттестат_3.runtimeconfig.json
+/home/work/Desktop/LessonsC#/ЗадачаАттестат_3/bin/Debug/net8.0/ЗадачаАттестат_3.dll
+/home/work/Desktop/LessonsC#/ЗадачаАттестат_3/bin/Debug/net8.0/ЗадачаАттестат_3.pdb
+/home/work/Desktop/LessonsC#/ЗадачаАттестат_3/obj/Debug/net8.0/ЗадачаАттестат_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/work/Desktop/LessonsC#/ЗадачаАттестат_3/obj/Debug/net8.0/ЗадачаАттестат_3.AssemblyInfoInputs.cache
+/home/work/Desktop/LessonsC#/ЗадачаАттестат_3/obj/Debug/net8.0/ЗадачаАттестат_3.AssemblyInfo.cs
+/home/work/Desktop/LessonsC#/ЗадачаАттестат_3/obj/Debug/net8.0/ЗадачаАттестат_3.csproj.CoreCompileInputs.cache
+/home/work/Desktop/LessonsC#/ЗадачаАттестат_3/obj/Debug/net8.0/ЗадачаАттестат_3.dll
+/home/work/Desktop/LessonsC#/ЗадачаАттестат_3/obj/Debug/net8.0/refint/ЗадачаАттестат_3.dll
+/home/work/Desktop/LessonsC#/ЗадачаАттестат_3/obj/Debug/net8.0/ЗадачаАттестат_3.pdb
+/home/work/Desktop/LessonsC#/ЗадачаАттестат_3/obj/Debug/net8.0/ЗадачаАттестат_3.genruntimeconfig.cache
+/home/work/Desktop/LessonsC#/ЗадачаАттестат_3/obj/Debug/net8.0/ref/ЗадачаАттестат_3.dll
